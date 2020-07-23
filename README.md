@@ -12,14 +12,14 @@ These steps will get this sample application running for you using DigitalOcean.
 
 To use all the features of App Platform, you need to be running against your own copy of this application. To make a copy, click the Fork button above and follow the on-screen instructions. In this case, you'll be forking this repo as a starting point for your own app (see [Github documentation](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) to learn more about forking repos.
 
-After forking the repo, you should now be viewing this README in your own github org (e.g. `https://github.com/<your-org>/sample-gatsby`)
+After forking the repo, you should now be viewing this README in your own github org (e.g. `https://github.com/<your-org>/sample-dockerfile-static`)
 
 ## Deploying the App ##
 
 1. Visit https://cloud.digitalocean.com/apps (if you're not logged in, you may see an error message. Visit https://cloud.digitalocean.com/login directly and authenticate, then try again)
 1. Click "Launch App" or "Create App"
 1. Choose GitHub and authenticate with your GitHub credentials.
-1. Under Repository, choose this repository (e.g. `<your-org>/sample-gatsby`)
+1. Under Repository, choose this repository (e.g. `<your-org>/sample-dockerfile-static`)
 1. On the next two screens, leave all the defaults unchanged.
 1. Click "Launch App"
 1. You should see a "Building..." progress indicator. And you can click "Deployments"→"Details" to see more details of the build.
@@ -39,7 +39,7 @@ You can learn more about the App Platform and how to manage and update your appl
 
 When you no longer need this sample application running live, you can delete it by following these steps:
 1. Visit the Apps control panel at https://cloud.digitalocean.com/apps
-1. Navigate to the sample-gatsby app
+1. Navigate to the sample-dockerfile-static app
 1. Choose "Settings"->"Destroy"
 
 This will delete the app and destroy any underlying DigitalOcean resources
