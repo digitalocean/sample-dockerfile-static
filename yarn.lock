@@ -1357,6 +1357,11 @@
     core-js "^3.4.1"
     regenerator-runtime "^0.13.3"
 
+"@kamaln7/print_npm_version_inst@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@kamaln7/print_npm_version_inst/-/print_npm_version_inst-1.0.1.tgz#b519b277653a96b66568f1b62aac0c3370eaa06a"
+  integrity sha512-xIv5iKoEQKBH9oaoLCgmfcK7qrp/moU2EEQnmLqF0F7iidzurq5Ow5Tqi/VTOh3CLkiLAyUXU3p0wV4907Kk4w==
+
 "@mdx-js/mdx@^1.6.6":
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.6.6.tgz#6e235f0ca47c8652f4c744cf7bc46a1015bcaeaa"
