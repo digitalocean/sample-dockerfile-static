@@ -3,7 +3,7 @@ static_sites:
   - name: web
     github:
       deploy_on_push: true
-      branch: master
+      branch: main
       repo: digitalocean/sample-dockerfile-static
     dockerfile_path: Dockerfile.static
     output_dir: /app/public
